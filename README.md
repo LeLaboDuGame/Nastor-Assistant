@@ -1,2 +1,20 @@
-# Nastor-Assistant
-A AI assistant project full open source ! Connect your Home Assistant to a POWERFUL AI !
+
+# Nastor Assistant Project
+
+#### Have you ever dreamed of having a personal AI assistant like Jarvis (Iron Man) or a GladOS?
+
+### Welcome on  Nastor Assistant
+
+This Assistant was created to link AI to a Assistant.
+More than that, you can link your connected home with **Home Assistant (HA)** to control your light, your pc, etc.
+
+A Google Home that realy know you !
+
+-------------------------------------------
+-----
+_____
+______
+___
+
+## IN DEVELOPEMENT !
+
