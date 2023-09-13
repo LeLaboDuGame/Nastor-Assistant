@@ -1,7 +1,7 @@
 
 # Nastor Assistant Project
 
-#### Have you ever dreamed of having a personal AI assistant like Jarvis (Iron Man) or a GladOS?
+#### Have you ever dreamed of having a personal AI assistant like Jarvis (Iron Man) or a GladOS(Portal 2)?
 
 ### Welcome on  Nastor Assistant
 
